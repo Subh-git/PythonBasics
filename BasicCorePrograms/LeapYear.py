@@ -4,12 +4,11 @@
 	@Title : To check the input year is leap year or not	
 '''
 
-year = input("Please enter your year: ")
-while(len(year) != 4):
+year = int(input("Please enter your year: "))
+while(year >= 9999 or year <= 1000):
     print("The entered year format is wrong, enter in YYYY.")
-    year = input("Please enter the correct year: ")
+    year = int(input("Please enter the correct year: "))
 
-year = int(year)
 if ( (year % 4 == 0) and (year % 100 != 0) or (year % 400 ==0)):
     print("The year " ,year, " is a leap year")
 else:
