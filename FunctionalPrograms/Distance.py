@@ -12,7 +12,7 @@ def calc_distance(x, y):
 	Parameter:
 	    Two integer values as the coordinates of the point
 	Return:
-	    The distance of the point from origin
+	    The distance of the point from origin(0,0)
 	"""
     #the formula of calculating distance from origin is dist= sqrt((x1-0)**2 + (y1-0)**2)
     dist = ((x*x)+(y*y))**0.5
