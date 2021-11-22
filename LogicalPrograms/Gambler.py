@@ -23,6 +23,7 @@ def gambling():
     
     except ValueError:
         print("Invalid input")
+        exit()          
 
     no_of_win=0
     no_of_loss=0
