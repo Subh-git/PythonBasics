@@ -48,4 +48,5 @@ def gambling():
     print("Percentage of loss", (no_of_loss/bet_max)*100)
     print("Number of bets made", no_of_bets) 
     
-gambling()        
+if __name__ == '__main__':
+    gambling()        
