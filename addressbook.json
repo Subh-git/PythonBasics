@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Subhadeep",
+    "mobile": "7897897897",
+    "email": "Xyz@gmail.com",
+    "address": "Xyzcity",
+    "zip": "123123",
+    "city": "xyz",
+    "state": "pqrs"
+  },
+  {
+    "name": "Rahul",
+    "mobile": "9639639630",
+    "email": "rahul@gmail.com",
+    "address": "Xyzmall",
+    "zip": "456654",
+    "city": "thane",
+    "state": "maharasthra"
+  }
+]
