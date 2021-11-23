@@ -28,7 +28,7 @@ class AddressbookMethods:
             #here the file is an alias for variable name
             # indent=2 symbolises the indentation to make it look better
             #w+ indicates the write and read, this overwrites the file operation
-            with open('addressbook.json', 'w') as file:
+            with open('C:/Users/subha/PythonBasics/OOPS/Address Book/addressbook.json', 'w') as file:
                 json.dump(self.address_list, file, indent=2)
                 print("Json file modified")
         
