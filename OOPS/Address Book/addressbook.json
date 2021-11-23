@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Subhadeep",
+    "mobile": "7897897899",
+    "email": "Subh@gmail.com",
+    "address": "Borbora",
+    "zip": "456852",
+    "city": "Jorhat",
+    "state": "Assam"
+  },
+  {
+    "name": "Rahul",
+    "mobile": "7898526541",
+    "email": "Rahul@gmail.com",
+    "address": "Rampur",
+    "zip": "741325",
+    "city": "Rohini",
+    "state": "Haryana"
+  }
+]
